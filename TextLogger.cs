@@ -1,4 +1,4 @@
-public class TextLogger : ITextLogger
+public class TextLogger
     {
         private IConfiguration config;
 
